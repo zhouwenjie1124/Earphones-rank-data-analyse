@@ -1,9 +1,6 @@
 
-# CISC 7201 Course Project:Earphone Sound Quality Analysis
+# Earphone Sound Quality and Rank  Analysis
 
-**Name**:  WENJIE ZHOU
-
-**Number**: MC35355
 
 ## Introduction
 
