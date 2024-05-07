@@ -32,6 +32,9 @@ pip install -r requirements.txt
 ```
 
 Make sure you have a compatible version of Python installed on your system before running the above command.
+## Result
+![Brand](Images/Brand.png)
+![Sign](Images/Signature.png)
 
 ## ****Questions I would like to answer in this project****
 
